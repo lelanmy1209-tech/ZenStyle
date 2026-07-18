@@ -1,0 +1,14 @@
+Server:
+ZenStyle_DB.mssql.somee.com
+
+Database:
+ZenStyle_DB
+
+Username:
+Lanmy_SQLLogin_2
+
+Password:
+trg group
+
+Port:
+1433
